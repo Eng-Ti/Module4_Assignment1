@@ -1,0 +1,47 @@
+.main { 
+    border: 2px solid #ccc; padding: 2em;
+}
+
+li {
+  padding-top: 3px; padding-bottom: 3px; 
+}
+
+.likes {
+  color: rgb(12, 3, 88);
+}
+
+span {
+  color: black; font-weight: bolder; font-style: italic;
+  border: 2px solid; padding: 0.1em; margin: 2px;
+  background-color: #ccc;
+}
+
+.like3{
+  list-style-type: none; 
+  background: url(./check_mark.PNG) 0 25% no-repeat;
+  padding-left: 25px; color: red; font-weight: bolder;
+}
+
+#nest {
+  list-style-type: disc; color: yellowgreen;
+}
+
+#line {
+  text-decoration: underline; text-decoration-style: double;
+}
+.more {
+ color: magenta; font-style: italic; font-weight: bolder;
+}
+
+.dislikes {
+  color: green; font-weight: bolder;
+}
+
+#special {
+  font-size: larger; color: black; text-decoration: line-through;
+}
+
+.last {
+  list-style-type: lower-roman; color: blue;
+  font-style: italic; font-weight: bolder;
+}
